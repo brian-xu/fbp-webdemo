@@ -1,0 +1,7 @@
+opencv-python~=4.2.0.34
+Flask~=1.1.2
+numpy~=1.18.5
+requests~=2.24.0
+Pillow~=7.1.2
+torch~=1.5.1+cpu
+torchvision~=0.6.1+cpu
